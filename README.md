@@ -4,7 +4,9 @@
 Web Security Topics for selfstudy:beginner:
 
 [+] Sql Injection Attack
+
 [+] Hibernate Query Language Injection
+
 [+] Direct OS Code Injection
 [+] XML Entity Injection
 [+] Broken Authentication and Session Management
